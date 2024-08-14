@@ -79,7 +79,7 @@ results, as a quick demonstration. This list is by no means comprehensive, as
 the code allows infinite numerical experiments; these are suggested for 
 qualitative understanding of the results and the structure of the code.
 
-- In the main program rootSimulateLearningWhileWalking.m, the section
+6) In the main program rootSimulateLearningWhileWalking.m, the section
 with the header "%% define the different adaptation protocols and figures"
 
 You will notice that all lines are commented out except the line:
