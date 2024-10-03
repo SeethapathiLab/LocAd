@@ -1,9 +1,10 @@
 # LocAd: a computational model of locomotor adaptation 
 Code associated with manuscript "Exploration-based learning of a stabilizing controller predicts locomotor adaptation"
-If you use or build on this code in any way, please cite the following (link TODO):
+If you use or build on this code in any way, please cite the following:
 
 Authors: Nidhi Seethapathi, Barrett L Clark, and Manoj Srinivasan
-Journal: Nature Communications
+Title: Exploration-based learning of a stabilizing controller predicts locomotor adaptation
+Journal: To be announced
 Year: 2024
 
 ## How to run the program
